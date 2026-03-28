@@ -1,0 +1,9 @@
+{
+  "name": "telegram-md5-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram AI",
+  "main": "botal.py",
+  "scripts": {
+    "start": "python3 botal.py"
+  }
+}
